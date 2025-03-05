@@ -2,7 +2,7 @@
 
 ## Redes Sociais
   <div align="center"> 
-    <a href="https://www.instagram.com/jp.lwop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://www.instagram.com/jp.lwop/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white"</a>
     <a href="www.linkedin.com/in/joao-pedro-lima1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   </div>
 
