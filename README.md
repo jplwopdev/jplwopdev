@@ -17,3 +17,15 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,git,github,linux,vercel"/>
     </a>
   </div>
+
+<!--<div align="center">
+<a href="https://github.com/jplwopdev/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jplwopdev&theme=radical" />
+</a>
+<a href="https://github.com/jplwopdev">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jplwopdev&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+</div>-->
+
+<!--snake
+  ![snake gif](https://github.com/aamoorim/aamoorim/blob/output/github-snake-dark.svg)-->
