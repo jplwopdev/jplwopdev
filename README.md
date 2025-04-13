@@ -2,15 +2,18 @@
 
 ## Redes Sociais
   <div align="center"> 
-    <a href="https://www.instagram.com/jp.lwop/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/joao-pedro-lima1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+    <a href="https://www.instagram.com/jp.lwop/">
+      <img src="https://skillicons.dev/icons?i=instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/joao-pedro-lima1/">
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
   </div>
 
 
-## Tecnologias Usadas
+## Tecnologias e Ferramentas
   <div align="center"> 
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-    <a href = ""> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-    <a href = ""> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,git,github,linux,vercel"/>
+    </a>
   </div>
