@@ -14,7 +14,7 @@
 ## Tecnologias e Ferramentas
   <div align="center"> 
     <a href="">
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,git,github,linux,vercel"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,vite,vercel,linux,github,git"/>
     </a>
   </div>
 
