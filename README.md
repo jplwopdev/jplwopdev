@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C82AD&size=40&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+João+Pedro!+👋;Tenho+17+anos.;Eu+curso+Redes+De+Computadores.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C82AD&size=40&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+João+Pedro!+👋;Tenho+18+anos.;Eu+sou+formado+em+Redes+De+Computadores.;Curso+Banco+de+Dados+na+PUCRS)](https://git.io/typing-svg)
 
 ## Redes Sociais
   <div align="center"> 
