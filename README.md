@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-Hello! My name's João Pedro, I'm 18, and I have a degree in **Computer Networks**.
+Hello! My name's João Pedro, I'm 19, and I have a degree in **Computer Networks**.
 
 Currently, I work in the **Data and Business Intelligence** area, working with **ETL/ELT, data modeling, SQL, and Python** to structure pipelines and support the creation of reports and analyses in **Power BI**.
 
